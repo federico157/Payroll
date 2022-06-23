@@ -1,0 +1,5 @@
+C:\Users\Sena\source\repos\nomina2\nomina2\obj\Debug\net5.0\nomina2.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\nomina2\nomina2\obj\Debug\net5.0\nomina2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\nomina2\nomina2\obj\Debug\net5.0\nomina2.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\nomina2\nomina2\obj\Debug\net5.0\nomina2.AssemblyInfo.cs
+C:\Users\Sena\source\repos\nomina2\nomina2\obj\Debug\net5.0\nomina2.csproj.CoreCompileInputs.cache
